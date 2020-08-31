@@ -1,0 +1,11 @@
+numpy 
+scipy
+pillow 
+scikit-image 
+matplotlib 
+imutils
+"IPython[all]"
+tensorflow
+keras 
+h5py
+opencv-contrib-python
