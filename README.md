@@ -26,3 +26,5 @@ pip install opencv-contrib-python
 I had a lot of problems with the environment stuff since I am a noob with python, so I learned the hard way to check
 if you can import the opencv and tensorflow modules
 
+This is the graph that I used faster_rcnn_inception_resnet_v2_atrous_oid_v4_2018_12_12
+
