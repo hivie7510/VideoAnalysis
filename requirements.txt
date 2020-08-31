@@ -4,7 +4,7 @@ pillow
 scikit-image 
 matplotlib 
 imutils
-"IPython[all]"
+IPython[all]
 tensorflow
 keras 
 h5py
