@@ -1,4 +1,10 @@
 # VideoAnalysis
+
+Update: 2025
+This was a test project that I am building with the Jetson Nano to try to detect my daughter during her soccer matches.  The goal was to have it do object detection and tracking so that I could put a bounding box to extract the parts of the videos that she was in.  The intent was to build highlights for college coaches.  
+
+This was a Covid project.
+
 This is the sample code for the soccer tracking project
 
 This will initially be a montage of the concepts that I am learning as I try to realize this project
